@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabsaxena7
+- 👋 Hi, I’m Rishab Saxena
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
